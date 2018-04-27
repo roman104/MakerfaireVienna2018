@@ -1,0 +1,10 @@
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\bin\Debug\Mind.exe.config
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\bin\Debug\Mind.exe
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\bin\Debug\Mind.pdb
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\obj\Debug\Mind.csprojResolveAssemblyReference.cache
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\obj\Debug\Mind.MainApp.resources
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\obj\Debug\Mind.Properties.Resources.resources
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\obj\Debug\Mind.csproj.GenerateResource.cache
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\obj\Debug\Mind.csproj.CoreCompileInputs.cache
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\obj\Debug\Mind.exe
+E:\FIIT\2.semester\Diplomový projekt 1\Mind\Mind\obj\Debug\Mind.pdb
